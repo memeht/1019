@@ -2,3 +2,4 @@ flask
 tweepy
 pandas
 python-telegram-bot
+gunicorn
